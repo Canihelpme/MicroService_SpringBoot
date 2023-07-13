@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/step04/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step04/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step07/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step07/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step08/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step08/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step10/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step10/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step10/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step13/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step13/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step13/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step15/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step15/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step15/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step15/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step21/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step21/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step21/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step21/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step21/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step25/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/step29/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/stepZZ-final/currency-conversion-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
